@@ -1,10 +1,12 @@
 # Sabor Express Web
 
-Sistema web para gestión de pedidos mediante código QR en restaurantes.
+Aplicación web para la gestión de pedidos en restaurantes mediante código QR.
+
+## Descripción
+El sistema permite a los clientes visualizar el menú, realizar pedidos y pagar desde su dispositivo móvil.
 
 ## Tecnologías
-- Angular (frontend)
-- (lo que estés usando)
+- Angular (Frontend)
 
 ## Estado
 Proyecto en desarrollo (avance parcial)
